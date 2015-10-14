@@ -4,12 +4,20 @@ body{
 	background-size: 100%;
 }
 
+#desert{
+	position: fixed;
+	top:10%;
+	left:35%;
+
+	border: 2px solid;
+}
  
 #textBoxFirstPage{
 	position: absolute;
 	top: 60%;
 	left: 40%
 }
+
 
 .css_btn_class {
 	position: absolute;
