@@ -4,6 +4,13 @@ body{
 	background-size: 100%;
 }
 
+ 
+#textBoxFirstPage{
+	position: absolute;
+	top: 60%;
+	left: 40%
+}
+
 .css_btn_class {
 	position: absolute;
 	top:60%;
