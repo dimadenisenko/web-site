@@ -3,7 +3,7 @@ function isWordTrue(){
 
 			var arrayTrueWords = ["пустыня","песок","караван","бархан"];
 			var trueWord = "пустыня";
-			var inputedWord = document.getElementById("tBoxFirstPage").value;
+			var inputedWord = document.getElementById("input-word").value;
 	
 			console.log(inputedWord);
 
@@ -24,8 +24,3 @@ function isWordTrue(){
 					
 	}
 
-
-
-window.onload=function(){
-
-};
