@@ -35,19 +35,13 @@ body{
     border: 1px solid;
 }
 
-#timer_inp{
-
-	font-size: 35;
+#countdown{
+    position: absolute;
+    top:15%;
+    left:10%;
+    
 }
 
-
-#tBoxForInputedWord{
-
-	position: fixed;
-	top: 55%;
-	left: 40%
-
-}
 
  
 
