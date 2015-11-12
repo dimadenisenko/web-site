@@ -22,6 +22,19 @@ body{
     
 }
 
+.caseForImage {
+    margin: 1;
+}
+
+#mainAreaImage{
+    position: absolute;
+    top: 15px;
+    left: 30%;
+} #image{
+    border-radius: 3%;
+    border: 1px solid;
+}
+
 #timer_inp{
 
 	font-size: 35;
