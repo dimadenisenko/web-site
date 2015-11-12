@@ -1,4 +1,9 @@
-
+html {
+    -webkit-font-smoothing: antialiased;
+}
+body{
+    background-color: #7FCEBF;
+}
 
 #timer_inp{
 
