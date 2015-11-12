@@ -52,6 +52,16 @@ body{
 }
 
 
+#disable-text-box{
+    position: relative;
+    top:55%;
+}
+
+#textbox-for-input-word{
+    position: relative;
+    top:58%;
+}
+
 
  
 
