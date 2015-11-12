@@ -5,6 +5,23 @@ body{
     background-color: #7FCEBF;
 }
 
+.contant {
+    margin: 0 auto;
+    padding: 2em 2em 4em;
+    width: 800px;
+    height: 560px;
+   
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    
+    color: #545454;
+    background-color: #E8D9AE;
+    box-shadow: 0 0 5px rgba(1, 2, 3, 5);
+    position: relative;
+    
+}
+
 #timer_inp{
 
 	font-size: 35;
