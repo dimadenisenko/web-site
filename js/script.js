@@ -7,12 +7,12 @@ function isWordTrue(){
 	
 			console.log(inputedWord);
 
-			for(var i = 0; i < 4; i++){
+			for(var i = 0; i < 5; i++){
 
 					if(arrayTrueWords[i] == inputedWord){
 
 						console.log("Слова совпадают");
-						tBoxForInputedWord.value='Слово '+ '"' +inputedWord+'"'+'верно';
+                        disabledBox.value='Слово '+ '"' +inputedWord+'" '+'верно';
 						break;
 						
 						}else{
@@ -27,7 +27,5 @@ function isWordTrue(){
 
 
 window.onload=function(){
-
-
 
 };
