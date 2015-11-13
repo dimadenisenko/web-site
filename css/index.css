@@ -5,9 +5,10 @@ body{
     background-color: #7FCEBF;
 }
 
-.contant {
+.container {
     margin: 0 auto;
-    padding: 2em 2em 4em;
+   
+    padding: 0.5em 0.5em 0.5em 0.5em;
     width: 800px;
     height: 560px;
    
@@ -65,8 +66,8 @@ body{
 
 #list-true-words{
     position: absolute;
-    top: 2%;
-    right: 5%;
+    top: 1%;
+    right: 2%;
     
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;

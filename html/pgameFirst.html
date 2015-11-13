@@ -12,7 +12,6 @@
 		<script src="../js/countdown.js"></script>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		
-		
 		<title>Association</title>
 		
 	</head>
@@ -21,20 +20,20 @@
 		 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 		 <script type="text/javascript" src="../js/materialize.min.js"></script>
 
-             <div class = "contant">
+             <div class = "container">
        
                 <div id = "header"></div>
-
+                
                 <div id="countdown">
-                    <h1 id = "timer_inp">45</h1>
+                    <h1 id = "timer_inp">55</h1>
                 </div>
                 
                 <div id ="mainAreaImage">
-                    <p><img id = "image"  src="../images/p.jpg" alt="error"></p>
+                    <p><img class="materialboxed" id = "image"  src="../images/p.jpg" alt="error"></p>
                 </div>
         
                 <div id = "button">
-                    <a href="#" class="waves-effect waves-light btn" onclick="isWordTrue();">Проверить</a>
+                    <a href="#" class="waves-effect waves-light btn"  onclick="isWordTrue();">Проверить</a>
                 </div>
                 
                 <div id = "disable-text-box">
@@ -44,14 +43,18 @@
       
                 <div id = "textbox-for-input-word">
                     <div class="input-fieldcols6">
+                            
                             <input placeholder="" id="input-word" type="text" class="validate">
                             <label for="input-word">Поле для ввода слова</label>
                         </div>
                     </div>
 
                  <div id = "list-true-words">
-                    <ul class="collection-word">
-
+                    <ul class="collection-word with-header">
+                             <li class="collection-header">
+                                 <p>Разгаданные слова:</p>
+                                 </li>
+                                 
                               <li class="collection-item">
                                       <input disabled value="" id="caseForDesert" type="text" class="validate">
                                   </li>
