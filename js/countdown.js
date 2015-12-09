@@ -4,7 +4,7 @@ function timer (){
 			obj.innerHTML--;
 
  			if(obj.innerHTML==0){
- 				window.top.close();
+ 				
                 window.location.reload();
  				setTimeout(function(){},1000);
  				
