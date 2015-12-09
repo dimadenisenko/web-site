@@ -34,6 +34,17 @@ body{
     margin: 1;
 }
 
+.footer-copyright{
+    background-color: darkmagenta;
+    height: 60px;
+    clear:both;
+    border-radius: 5px;
+    text-align:left;
+    padding: 15px;
+    font-size: 90%;
+    max-height:80px;
+    
+}
 
 
  
