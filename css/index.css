@@ -1,13 +1,13 @@
-body{
-	background-color: #E6DFB1;
-	background-image: url('../images/bg.jpg');
-	background-size: 100%;
-	padding: 0;
-	margin: 0;
+html {
+    -webkit-font-smoothing: antialiased;
 }
-h1{
-text-align: center;
 
+body{
+    background-color: #7FCEBF;
+}
+
+.nav-wrapper{
+     position: relative;
 
 }
 
