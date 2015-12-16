@@ -1,0 +1,576 @@
+commit 820978a98e31017cb99a7dc953c80a1459efc36f
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 02:04:35 2015 +0600
+
+    wrote new js file for element slider
+
+commit 821f1c82df3636a89ef1a1da266ff6c083d1e38a
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 02:01:16 2015 +0600
+
+    added button
+
+commit b33774a5c9e6bed5be30c74ef45ef684d016caaa
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 02:00:48 2015 +0600
+
+    added property for button
+
+commit af46e32a978ccbdbed357dd948eda486f4920ebc
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 01:59:56 2015 +0600
+
+    .
+
+commit 1df42b045b70d9849af443517ceb37d65b50f989
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 00:01:24 2015 +0600
+
+    deleted unnecessary files
+
+commit 2238a303d3382c731a8e50f711f43e76957426b9
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 23:07:08 2015 +0600
+
+    added property for logo's page in header
+
+commit 41c487288c3e0b2b3141ba3c822942c5d41ed030
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 23:05:59 2015 +0600
+
+    added property for footer
+
+commit ba7f17877cea833f06e7ef45797453dbf8ffeda1
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 23:04:26 2015 +0600
+
+    added footer
+
+commit b136f9776a092ddacce23dcc37e4ccc1b6e65170
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:39:49 2015 +0600
+
+    added property for container
+
+commit c81b3524949d3213a7453ad64fff34ab6106b8b0
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:39:25 2015 +0600
+
+    added property for container
+
+commit 7a0f5fde2b6303f0d433e4afcd5c3bedf5707597
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:37:51 2015 +0600
+
+    added propertes for html and body
+
+commit d6449a1d75fb046a34bb45fea492dd649aa4e75b
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:30:56 2015 +0600
+
+    added container
+
+commit 86cbe28190fe28e182dbc3fe853e8e3c1a5f3a3f
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:20:25 2015 +0600
+
+    added head for page
+
+commit b86ad0fc3a10905aec0cfde3c9afe3dd88d0b720
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:17:14 2015 +0600
+
+    deleted not need strings code
+
+commit 5de167db52822697028e13a21325215e1f839fe8
+Merge: fb36edd 428ccbd
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 29 16:51:57 2015 +0600
+
+    added some chenges
+
+commit fb36edd09253d2d781d31213ba7aebba312716f6
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 14:19:49 2015 +0600
+
+    corrected
+
+commit 2a2a1d09b40b1dab882b8eba03a4487fdd67fac7
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 14:09:15 2015 +0600
+
+    added sp.docx
+
+commit 428ccbdd782365690faab2addb18ca5851491ad5
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 14:01:18 2015 +0600
+
+    added head page
+
+commit 19a4fad743f54a5cd6f3b31e28ea1b5d30b57696
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 13:57:16 2015 +0600
+
+    added func
+
+commit c5584328b24864ed21fa4df75798a08fc0ca4c40
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 13:56:12 2015 +0600
+
+    changed
+
+commit ab127dcd99daa6a4ab7825f9de00020bd4357e58
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 13:53:53 2015 +0600
+
+    added .idea file
+
+commit 092e58b975aea3f982e8b71f4a1a1e0abc3d2b23
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 19:50:31 2015 +0600
+
+    added func in input tBox
+
+commit 56dc1bb2c9e3c3c8e842677715f24c5fdcd0f439
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:39:26 2015 +0600
+
+    added slesh in path of files and pictures
+
+commit 58c89d0b85aeda91bce0d13a230dfece623190dd
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:33:41 2015 +0600
+
+    chenged files
+
+commit 83367dbc3ab452dce2e304766570cacf1e1c2d96
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:31:42 2015 +0600
+
+    chenged files
+
+commit 9ac86662badc5faeb2bfdf2f9950f021fadfc88c
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:21:39 2015 +0600
+
+    delete some elements's style which aren't need
+
+commit 836878201477eb16f02232bd6ab71a228e5bcbfd
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:18:01 2015 +0600
+
+    added new page for game №1
+
+commit 9bbe52fa680f056d031eafc18578b2944dc5ee78
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:13:57 2015 +0600
+
+    .webstorm
+
+commit a9800081005fb08175a95145632898722b007942
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:11:57 2015 +0600
+
+    added button in index.html
+
+commit 9976bc8d0c2491243592296b96d8f9a2f21a7766
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:09:14 2015 +0600
+
+    added modified
+
+commit a80a8e375a362b1c324539063bb33851613c3665
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 17:50:57 2015 +0600
+
+    chenged files
+
+commit 129c1ce5d34b48ae9ccd1ed50371784d9fbce60d
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 17:09:11 2015 +0600
+
+    incloded webstorm studea
+
+commit 45b168a2dcbb5754c2196739e4ca6262aebc9d15
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 16:45:47 2015 +0600
+
+    deleted files
+
+commit a3a89cce887357055d4240dd355b5b6aa51f0489
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 16:42:42 2015 +0600
+
+    renamed files
+
+commit 8901c463fd59ad8aff2508bad063f49df36fe208
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 22 12:14:27 2015 +0600
+
+    added head.html
+
+commit 97c1559d22419cb144ac88ab43f575b94a4f2695
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 15 11:49:57 2015 +0600
+
+    in head.css hasnt nothing yet
+
+commit be6f417edb3abf30cab40648ce8852e357f46fc9
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 15 11:45:58 2015 +0600
+
+    changded name title
+
+commit 03d8491c6519f12053875e8ce4da75d6eea1331b
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 15 00:32:17 2015 +0600
+
+    method alert() was added in index.html
+
+commit e8ce9a22218c74c60c11016038471eb2410c5ed2
+Author: Dmitry Denisenko <denisenko95dima@gmail.com>
+Date:   Thu Oct 15 00:25:52 2015 +0600
+
+    Create README.md
+
+commit 9993d88b245168a8f5ba1fcb1e216a6419e4ec4c
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 23:20:08 2015 +0600
+
+    added position for picture 'desert'
+
+commit 6674fceb8551addf55c4dee05c0edfa333fad516
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 23:09:32 2015 +0600
+
+    added picture for firt game, its name is 'desert'
+
+commit c8f0b48830e370acb4666b1439768c17c5074201
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 22:45:10 2015 +0600
+
+    added property for textbox
+
+commit cabc5df07cd4d4703d1a3669788759a6c8af727b
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 22:04:47 2015 +0600
+
+    wrote disgn for button 'Ok'
+
+commit 8c8cf3e8a1f32a00b7ec4ee66e7d43936a8b371c
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 21:59:33 2015 +0600
+
+    wrote button, its name is Ok
+
+commit 01eb6af5f1dbdc7282ff6119a1ad0fb3aec579fd
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 21:43:04 2015 +0600
+
+    In index.html wrote input form and in head.css wrote design at input form
+
+commit c119853bdb49e5367374b4972f2abfa2fd86b260
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 21:39:22 2015 +0600
+
+    added jpg files
+
+commit 0227308d2199f2876862bbbabc90417d7fc2e4dd
+Author: Dmitry Denisenko <dmitryflareon@gmail.com>
+Date:   Thu Sep 10 12:19:29 2015 +0600
+
+    no changes
+
+commit 55c371ebce890f4c13d0f5f65f7097a1327a8aba
+Author: Dmitry Denisenko <dmitryflareon@gmail.com>
+Date:   Mon Sep 7 14:30:43 2015 +0600
+
+    head html
+commit 820978a98e31017cb99a7dc953c80a1459efc36f
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 02:04:35 2015 +0600
+
+    wrote new js file for element slider
+
+commit 821f1c82df3636a89ef1a1da266ff6c083d1e38a
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 02:01:16 2015 +0600
+
+    added button
+
+commit b33774a5c9e6bed5be30c74ef45ef684d016caaa
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 02:00:48 2015 +0600
+
+    added property for button
+
+commit af46e32a978ccbdbed357dd948eda486f4920ebc
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 01:59:56 2015 +0600
+
+    .
+
+commit 1df42b045b70d9849af443517ceb37d65b50f989
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Dec 10 00:01:24 2015 +0600
+
+    deleted unnecessary files
+
+commit 2238a303d3382c731a8e50f711f43e76957426b9
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 23:07:08 2015 +0600
+
+    added property for logo's page in header
+
+commit 41c487288c3e0b2b3141ba3c822942c5d41ed030
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 23:05:59 2015 +0600
+
+    added property for footer
+
+commit ba7f17877cea833f06e7ef45797453dbf8ffeda1
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 23:04:26 2015 +0600
+
+    added footer
+
+commit b136f9776a092ddacce23dcc37e4ccc1b6e65170
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:39:49 2015 +0600
+
+    added property for container
+
+commit c81b3524949d3213a7453ad64fff34ab6106b8b0
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:39:25 2015 +0600
+
+    added property for container
+
+commit 7a0f5fde2b6303f0d433e4afcd5c3bedf5707597
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:37:51 2015 +0600
+
+    added propertes for html and body
+
+commit d6449a1d75fb046a34bb45fea492dd649aa4e75b
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:30:56 2015 +0600
+
+    added container
+
+commit 86cbe28190fe28e182dbc3fe853e8e3c1a5f3a3f
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:20:25 2015 +0600
+
+    added head for page
+
+commit b86ad0fc3a10905aec0cfde3c9afe3dd88d0b720
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Dec 9 22:17:14 2015 +0600
+
+    deleted not need strings code
+
+commit 5de167db52822697028e13a21325215e1f839fe8
+Merge: fb36edd 428ccbd
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 29 16:51:57 2015 +0600
+
+    added some chenges
+
+commit fb36edd09253d2d781d31213ba7aebba312716f6
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 14:19:49 2015 +0600
+
+    corrected
+
+commit 2a2a1d09b40b1dab882b8eba03a4487fdd67fac7
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 14:09:15 2015 +0600
+
+    added sp.docx
+
+commit 428ccbdd782365690faab2addb18ca5851491ad5
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 14:01:18 2015 +0600
+
+    added head page
+
+commit 19a4fad743f54a5cd6f3b31e28ea1b5d30b57696
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 13:57:16 2015 +0600
+
+    added func
+
+commit c5584328b24864ed21fa4df75798a08fc0ca4c40
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 13:56:12 2015 +0600
+
+    changed
+
+commit ab127dcd99daa6a4ab7825f9de00020bd4357e58
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 28 13:53:53 2015 +0600
+
+    added .idea file
+
+commit 092e58b975aea3f982e8b71f4a1a1e0abc3d2b23
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 19:50:31 2015 +0600
+
+    added func in input tBox
+
+commit 56dc1bb2c9e3c3c8e842677715f24c5fdcd0f439
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:39:26 2015 +0600
+
+    added slesh in path of files and pictures
+
+commit 58c89d0b85aeda91bce0d13a230dfece623190dd
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:33:41 2015 +0600
+
+    chenged files
+
+commit 83367dbc3ab452dce2e304766570cacf1e1c2d96
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:31:42 2015 +0600
+
+    chenged files
+
+commit 9ac86662badc5faeb2bfdf2f9950f021fadfc88c
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:21:39 2015 +0600
+
+    delete some elements's style which aren't need
+
+commit 836878201477eb16f02232bd6ab71a228e5bcbfd
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:18:01 2015 +0600
+
+    added new page for game №1
+
+commit 9bbe52fa680f056d031eafc18578b2944dc5ee78
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:13:57 2015 +0600
+
+    .webstorm
+
+commit a9800081005fb08175a95145632898722b007942
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:11:57 2015 +0600
+
+    added button in index.html
+
+commit 9976bc8d0c2491243592296b96d8f9a2f21a7766
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 18:09:14 2015 +0600
+
+    added modified
+
+commit a80a8e375a362b1c324539063bb33851613c3665
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 17:50:57 2015 +0600
+
+    chenged files
+
+commit 129c1ce5d34b48ae9ccd1ed50371784d9fbce60d
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 17:09:11 2015 +0600
+
+    incloded webstorm studea
+
+commit 45b168a2dcbb5754c2196739e4ca6262aebc9d15
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 16:45:47 2015 +0600
+
+    deleted files
+
+commit a3a89cce887357055d4240dd355b5b6aa51f0489
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Sun Oct 25 16:42:42 2015 +0600
+
+    renamed files
+
+commit 8901c463fd59ad8aff2508bad063f49df36fe208
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 22 12:14:27 2015 +0600
+
+    added head.html
+
+commit 97c1559d22419cb144ac88ab43f575b94a4f2695
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 15 11:49:57 2015 +0600
+
+    in head.css hasnt nothing yet
+
+commit be6f417edb3abf30cab40648ce8852e357f46fc9
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 15 11:45:58 2015 +0600
+
+    changded name title
+
+commit 03d8491c6519f12053875e8ce4da75d6eea1331b
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Thu Oct 15 00:32:17 2015 +0600
+
+    method alert() was added in index.html
+
+commit e8ce9a22218c74c60c11016038471eb2410c5ed2
+Author: Dmitry Denisenko <denisenko95dima@gmail.com>
+Date:   Thu Oct 15 00:25:52 2015 +0600
+
+    Create README.md
+
+commit 9993d88b245168a8f5ba1fcb1e216a6419e4ec4c
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 23:20:08 2015 +0600
+
+    added position for picture 'desert'
+
+commit 6674fceb8551addf55c4dee05c0edfa333fad516
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 23:09:32 2015 +0600
+
+    added picture for firt game, its name is 'desert'
+
+commit c8f0b48830e370acb4666b1439768c17c5074201
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 22:45:10 2015 +0600
+
+    added property for textbox
+
+commit cabc5df07cd4d4703d1a3669788759a6c8af727b
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 22:04:47 2015 +0600
+
+    wrote disgn for button 'Ok'
+
+commit 8c8cf3e8a1f32a00b7ec4ee66e7d43936a8b371c
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 21:59:33 2015 +0600
+
+    wrote button, its name is Ok
+
+commit 01eb6af5f1dbdc7282ff6119a1ad0fb3aec579fd
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 21:43:04 2015 +0600
+
+    In index.html wrote input form and in head.css wrote design at input form
+
+commit c119853bdb49e5367374b4972f2abfa2fd86b260
+Author: Dmitry Denisenko <dmitryesten@gmail.com>
+Date:   Wed Oct 14 21:39:22 2015 +0600
+
+    added jpg files
+
+commit 0227308d2199f2876862bbbabc90417d7fc2e4dd
+Author: Dmitry Denisenko <dmitryflareon@gmail.com>
+Date:   Thu Sep 10 12:19:29 2015 +0600
+
+    no changes
+
+commit 55c371ebce890f4c13d0f5f65f7097a1327a8aba
+Author: Dmitry Denisenko <dmitryflareon@gmail.com>
+Date:   Mon Sep 7 14:30:43 2015 +0600
+
+    head html

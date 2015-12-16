@@ -46,6 +46,7 @@ body{
     
 }
 
+
 .btn-large{
     top:50%;
     left: 45%;
@@ -58,7 +59,52 @@ body{
      width: 60px;
      height: 64px;
      position: absolute;
+}
+
+#mainAreaImage{
+    position: absolute;
+    top: 15px;
+    left: 30%;
+} #image{
+    border-radius: 3%;
+    border: 1px solid;
+}
+
+#countdown{
+    position: absolute;
+    top:15%;
+    left:10%;
     
+}
+
+
+#button{
+    position: absolute;
+    top:80%;
+    left:40%;
+    
+}
+
+
+#disable-text-box{
+    position: relative;
+    top:55%;
+}
+
+#textbox-for-input-word{
+    position: relative;
+    top:58%;
+}
+
+
+#list-true-words{
+    position: absolute;
+    top: 1%;
+    right: 2%;
+    
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
 }
 
 
