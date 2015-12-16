@@ -1,40 +1,11 @@
-html {
-    -webkit-font-smoothing: antialiased;
-}
+html { -webkit-font-smoothing: antialiased; }
 
-body{
-    background-color: #7FCEBF;
-}
+body{ background-color: #7FCEBF; }
 
-.nav-wrapper{
-     position: relative;
-
-}
+.nav-wrapper {position: relative;}
 
 
-.container {
-    margin: 0 auto;
-   
-    padding: 0.5em 0.5em 0.5em 0.5em;
-    width: 800px;
-    height: 560px;
-   
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5em;
-    
-    color: #545454;
-    background-color: #E8D9AE;
-    box-shadow: 0 0 5px rgba(1, 2, 3, 5);
-    position: relative;
-    
-}
-
-.caseForImage {
-    margin: 1;
-}
-
-.footer-copyright{
+.footer-copyright {
     background-color: darkmagenta;
     height: 60px;
     clear:both;
@@ -46,67 +17,19 @@ body{
     
 }
 
-
-.btn-large{
-    top:50%;
-    left: 45%;
-    position: absolute;
+.slider {
+   position: relative;
+   width: 800px;
+   margin: 2px;
+   left: 30%;
+}
     
-}
 
-#logo
-{
-     width: 60px;
-     height: 64px;
-     position: absolute;
-}
-
-#mainAreaImage{
-    position: absolute;
-    top: 15px;
-    left: 30%;
-} 
-
-#image{
-    border-radius: 3%;
-    border: 1px solid;
-}
-
-#countdown{
-    position: absolute;
-    top:15%;
-    left:10%;
-    
-}
-
-
-#button{
-    position: absolute;
-    top:80%;
-    left:40%;
-    
-}
-
-
-#disable-text-box{
-    position: relative;
-    top:55%;
-}
-
-#textbox-for-input-word{
-    position: relative;
-    top:58%;
-}
-
-
-#list-true-words{
-    position: absolute;
-    top: 1%;
-    right: 2%;
-    
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5em;
+#logo{
+   position: absolute;
+   width: 60px;
+   height: 64px;
+     
 }
 
 
