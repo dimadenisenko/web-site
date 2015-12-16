@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		
+		<link rel="stylesheet" href="../css/designOfPage'sGame.css">
+        <link type="text/css" rel="stylesheet" href="../css/materialize.min.css"  media="screen,projection"/>
+
+		<script src="../js/script.js"></script>
+		<script src="../js/countdown.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+		
+		<title>Association</title>
+	</head>
+
+<body>
+		 <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+		 <script type="text/javascript" src="../js/materialize.min.js"></script>
+
+             <nav>
+                <div class="nav-wrapper  cyan darken-4">
+                  <img id = "logo" src="../images/logo.png" alt="error">
+                  <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="collapsible.html">About Game</a></li>
+                  </ul>
+                </div>
+            </nav>
+            
+   <div class = "container">
+                <div id="countdown">
+                    <h1 id = "timer_inp">55</h1>
+                 </div>
+
+                 
+                <div id ="mainAreaImage">
+                    <p><img class="materialboxed" id = "image"  src="../images/two.jpg" alt="error"></p>
+                 </div>
+        
+               
+                <div id = "button">
+                    <a href="#" class="waves-effect waves-light btn"  onclick="isWordTrue();">Проверить</a>
+                 </div>
+                
+                
+                <div id = "disable-text-box">
+                    <input disabled value="" id="disabledBox" type="text" class="validate">
+                 </div>
+      
+      
+                <div id = "textbox-for-input-word">
+                    <div class="input-fieldcols6">
+                            <input placeholder="" id="input-word" type="text" class="validate">
+                            <label for="input-word">Поле для ввода слова</label>
+                        </div>
+                    </div>
+
+                
+                 <div id = "list-true-words">
+                    <ul class="collection-word with-header">
+                             <li class="collection-header">
+                                 <p>Разгаданные слова:</p>
+                                 </li>
+                              <li class="collection-item">
+                                      <input disabled value="" id="caseForDesert" type="text" class="validate">
+                                  </li>
+                              <li class="collection-item">
+                                    <input disabled value="" id="caseForSand" type="text" class="validate">
+                                  </li>
+                              <li class="collection-item">
+                                      <input disabled value="" id="caseForСaravan" type="text" class="validate">
+                                  </li>
+                              <li class="collection-item">
+                                      <input disabled value="" id="caseForDune" type="text" class="validate">
+                                  </li>
+                    </ul>
+                 </div>
+    </div>
+             
+
+             
+            <div class="footer-copyright  cyan darken-1">© 2015 Copyright Text
+                    <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+                    </div>
+                    
+                    
+            
+             
+
+</body>
+	
+</html>
