@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Association</title>
+    
+    <link rel="stylesheet" href="../css/index.css">
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    
+    <style>
+        body{background-color: #7FCEBF;}
+        
+        #logo {position: absolute;
+               width: 60px;
+               height: 64px;
+        }
+        .slider {position: relative;
+                 width: 800px;
+                 margin: 2px;
+                 left: 23%;
+        }
+    </style>
+    
+    
+</head>
+
+<body>
+   <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+   <script type="text/javascript" src="js/materialize.min.js"></script>
+   
+        <nav>
+            <div class="nav-wrapper  cyan darken-4">
+                 <img id = "logo" src="images/logo.png" alt="error">
+                  <ul id="nav-mobile" class="right hide-on-med-and-down">
+                    <li><a href="collapsible.html">About Game</a></li>
+                  </ul>
+                </div>
+        </nav>
+   
+   
+        <div class="slider" >
+                <ul class="slides">
+                  <li>
+                   <a href="pgameFirst.html">
+                    <img src="images/one.jpg">
+                    
+                    <div class="caption left-align ">
+                      <h3 class="deep-orange-text text-darken-3">Пустыня</h3>
+                      <h5 class="bold orange-text text-accent-3 ">
+                      Мой караван шагал через пустыню
+                        Первый верблюд о чём-то с грустью думал,
+                            И остальные вторили ему. ...</h5>
+                    </div>
+                    </a>
+                  </li>
+                  <li>
+                    <img src="http://lorempixel.com/580/250/nature/2"> 
+                    <div class="caption left-align">
+                      <h3>Left Aligned Caption</h3>
+                      <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                    </div>
+                  </li>
+                  <li>
+                    <img src="http://lorempixel.com/580/250/nature/3"> 
+                    <div class="caption right-align">
+                      <h3>Right Aligned Caption</h3>
+                      <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                    </div>
+                  </li>
+                  <li>
+                    <img src="http://lorempixel.com/580/250/nature/4">
+                    <div class="caption center-align">
+                      <h3>This is our big Tagline!</h3>
+                      <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+                    </div>
+                  </li>
+                </ul>
+          </div>
+  
+  
+  
+</body>
+     
+    <script>
+       $(document).ready(function(){
+        $('.slider').slider();
+       });
+    </script>
+        
+
+</html>
