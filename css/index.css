@@ -65,7 +65,9 @@ body{
     position: absolute;
     top: 15px;
     left: 30%;
-} #image{
+} 
+
+#image{
     border-radius: 3%;
     border: 1px solid;
 }
