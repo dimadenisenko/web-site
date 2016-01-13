@@ -13,6 +13,4 @@ function timer (){
  						}
 
 
-}
-
-setTimeout(timer,1000);
+}setTimeout(timer,1000);

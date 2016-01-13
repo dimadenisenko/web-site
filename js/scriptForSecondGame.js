@@ -1,4 +1,8 @@
+// Функция проверет является ли введенное слово истенным 
 function isWordTrue() {
+    
+     //Событие, которое отвечает за увеличение картинки при
+    //на нажатие на нее
     jQuery(document).ready(function () {
                 jQuery('.materialboxed').materialbox();
             }) ;
@@ -6,7 +10,8 @@ function isWordTrue() {
             var arrayTrueWords = [ "игрушки", "детсво", "посудка", "чаепитие"]; //array words
 			var inputedWord = document.getElementById("input-word").value;
 	
-            
+            //Данный и последующие выводы в консоль нужны для
+            //для проверки верного присвоения значения переменной
             console.log(inputedWord);
 
 			for (var iterate = 0; iterate < arrayTrueWords.length; iterate++) {
@@ -18,7 +23,7 @@ function isWordTrue() {
                             if (inputedWord == "игрушки" )
                                 caseForDesert.value=inputedWord;
                         
-                            if (inputedWord =="детсво")
+                            if (inputedWord =="детство")
                                 caseForSand.value = inputedWord;
                             
                             if (inputedWord =="посудка")

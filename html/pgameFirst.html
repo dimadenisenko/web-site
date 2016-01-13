@@ -9,7 +9,7 @@
         <link type="text/css" rel="stylesheet" href="../css/materialize.min.css"  media="screen,projection"/>
 
 		<script src="../js/scriptForFirstGame.js"></script>
-		<script src="../js/countdown.js"></script>
+		
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		
 		<title>Association</title>
@@ -19,38 +19,45 @@
 		 <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
 		 <script type="text/javascript" src="../js/materialize.min.js"></script>
 
-             <nav>
-                <div class="nav-wrapper  cyan darken-4">
-                 <a href="../slider.html">
-                  <img id = "logo" src="../images/logo.png" alt="error">
-                    </a>
-                  <ul id="nav-mobile" class="right hide-on-med-and-down">
-                    <li><a href="collapsible.html">About Game</a></li>
-                  </ul>
-                </div>
-            </nav>
-            
+    <!--Тег <nav> создает header(шапку) с логотипом игры -->  
+    <nav>
+        <div class="nav-wrapper  cyan darken-4">
+            <a href="../slider.html">
+                <img id = "logo" src="../images/logo.png" alt="error"> </a>
+             <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="collapsible.html">About Game</a></li>
+            </ul>
+        </div>
+    </nav>
+   
+   <!--В область container находится основные элементы страницы-->    
    <div class = "container">
+              
+               <!-- div Таймера -->
                 <div id="countdown">
                     <h1 id = "timer_inp">55</h1>
                  </div>
-
-                 
+                
+                <div id = "area-text-about-winORfall">
+                    <p id ="winORfall"></p>
+                </div>
+                
+               <!-- div области, где распалагается картинка -->
                 <div id ="mainAreaImage">
                     <p><img class="materialboxed" id = "image"  src="../images/one.jpg" alt="error"></p>
                  </div>
         
-               
+               <!-- div Кнопка, к которой прикреплено событие onclick c функцией isWordTrue() -->
                 <div id = "button">
                     <a href="#" class="waves-effect waves-light btn"  onclick="isWordTrue();">Проверить</a>
                  </div>
                 
-                
+                <!-- div неактивного textBox для информирования о правельности введенного слова -->
                 <div id = "disable-text-box">
                     <input disabled value="" id="disabledBox" type="text" class="validate">
                  </div>
       
-      
+                <!-- div Поле ввода для слов -->
                 <div id = "textbox-for-input-word">
                     <div class="input-fieldcols6">
                             <input placeholder="" id="input-word" type="text" class="validate">
@@ -58,7 +65,7 @@
                         </div>
                     </div>
 
-                
+                <!-- div Список с четырмя ячейками неактивных полей ввода -->
                  <div id = "list-true-words">
                     <ul class="collection-word with-header">
                              <li class="collection-header">
@@ -78,10 +85,9 @@
                                   </li>
                     </ul>
                  </div>
+                 
     </div>
-             
-
-             
+            <!-- div Footer сайта -->
             <div class="footer-copyright  cyan darken-1">© 2015 Copyright Text
                     <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
                     </div>
