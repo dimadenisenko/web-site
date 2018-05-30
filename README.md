@@ -1,2 +1,1 @@
-# web-site
-The site has mini games on web page.
+The single-page mini game where player guess word by image
